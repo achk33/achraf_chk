@@ -1,7 +1,7 @@
 ﻿# achraf-chaouki
 # Next.js 
 # Client & Server Components
-# TypeScript (Beginner & Intermediate)
+# TypeScript 
 # Tailwind CSS
 # Context API
-# Advanced Animations with Framer Motion
+# Framer Motion
