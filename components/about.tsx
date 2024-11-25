@@ -19,8 +19,8 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-       With a strong foundation in <span className="underline">computer science</span> and <span className="underline">electronics</span>,{" "}
-        <span className="font-medium">my journey into technology naturally evolved into a deep passion for <span className="underline">web development</span>. </span> 
+       With a strong foundation in <span className="underline">computer</span> <span className="underline">science</span> and <span className="underline">electronics</span>,{" "}
+        <span className="font-medium">my journey into technology naturally evolved into a deep passion for <span className="underline">web</span> <span className="underline">development</span>. </span> 
         Specializing in web technologies and equipped with a solid background in electronics and <span className="underline">robotics</span>,{" "}
         <span className="font-medium"> I’ve honed my skills through active participation in robotics competitions,</span>{" "}
         <span className="italic">designing and building innovative systems with advanced capabilities. What drives me is the challenge of solving complex problems and delivering seamless, </span>
