@@ -63,25 +63,25 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "Robotics Store Founder",
+    title: "Drone Video Streaming Architect",
     description:
-      "Founder of a robotics store, where I've curated a diverse selection of cutting-edge robotics products for enthusiasts.",
-    tags: ["TypeScript","React", "Next.js", "Tailwind", "Boostrap"],
-    imageUrl: corpcommentImg,
-  },
-  {
-    title: "Digital Skills Education Platform Creator",
-    description:
-      "Initiated the development of a groundbreaking digital skills education platform, aimed at empowering individuals with practical knowledge.",
-    tags: ["React", "CSS", "Tailwind"],
+      "Developed a platform integrating the drone's video stream, focusing on front-end management and streaming to ensure a smooth and optimal user experience.",
+    tags: ["React", "Tailwind","TypeScript","Vue.js","Boostrap"],
     imageUrl: rmtdevImg,
   },
   {
     title: "Text Analytics",
     description:
-      "Implementing robust data governance practices to ensure accuracy and compliance.",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
-    imageUrl: wordanalyticsImg,
+      " Implementing robust data governance practices to ensure accuracy and compliance.",
+    tags: ["SQL","Python", "MySQL", "PHP"],
+    imageUrl:  wordanalyticsImg,
+  },
+  {
+    title: "Robotics Store Founder ",
+    description:
+      "Founder of a robotics store, where I've curated a diverse selection of cutting-edge robotics products for enthusiasts.",
+    tags: ["TypeScript", "React", "Tailwind","Next.js","Boostrap"],
+    imageUrl: corpcommentImg,
   },
 ] as const;
 
@@ -103,4 +103,5 @@ export const skillsData = [
   "Django",
   "Docker",
   "Framer Motion",
+  
 ] as const;

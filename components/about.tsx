@@ -19,24 +19,24 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-       Following my graduation with a degree in computer science and electronics ,{" "}
-        <span className="font-medium">my passion for technology led me down a different path towards becoming a Front End Developer. </span> 
-        With a specialty in electronics and a fervent interest in robotics,{" "}
-        <span className="font-medium"> I actively participate in robotics competitions,</span>{" "}
-        <span className="italic">where I've showcased my skills in creating <span className="underline">robots</span> with diverse capabilities. </span>
-         What excites me most about programming is the thrill of unraveling complex challenges and crafting elegant solutions. 
-           Whether it's optimizing code for efficiency or designing intuitive user interfaces, 
+       With a strong foundation in <span className="underline">computer science</span> and <span className="underline">electronics</span>,{" "}
+        <span className="font-medium">my journey into technology naturally evolved into a deep passion for <span className="underline">web development</span>. </span> 
+        Specializing in web technologies and equipped with a solid background in electronics and <span className="underline">robotics</span>,{" "}
+        <span className="font-medium"> I’ve honed my skills through active participation in robotics competitions,</span>{" "}
+        <span className="italic">designing and building innovative systems with advanced capabilities. What drives me is the challenge of solving complex problems and delivering seamless, </span>
+        efficient solutions.
+        Whether it’s optimizing code, crafting intuitive user interfaces, or integrating cutting-edge technologies,
         <span className="font-medium">
-        {" "}I thrive on pushing boundaries and embracing new technologies.
+        {" "}I thrive on pushing boundaries and embracing innovation.
         </span>
     
       </p>
 
       <p>
-        <span className="italic">Currently,</span> I am eagerly seeking a full-time position where I can leverage my expertise in front-end development, 
+        <span className="italic">Currently,</span> I am actively seeking a full-time opportunity to apply my expertise in web development, 
         {" "}
-        <span className="font-medium">coupled with my background in electronics and robotics, </span>
-         to contribute to innovative projects and drive technological advancements.{" "}
+        <span className="font-medium">along with my experience in electronics and robotics, </span>
+         to contribute to forward-thinking projects and drive impactful technological advancements.{" "}
       </p>
     </motion.section>
   );
