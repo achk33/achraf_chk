@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://i.imgur.com/M9PKrp7.jpg"
+              src="https://i.imgur.com/tKY8Ovy.jpeg"
               alt="Portrait"
               width="199"
               height="199"
